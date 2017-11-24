@@ -1,3 +1,7 @@
-# JavaPractice
 
-a projact for java Practice such as Multi Thread,Design Pattern,Jvm Feature....
+
+
+
+
+use for java practice
+
