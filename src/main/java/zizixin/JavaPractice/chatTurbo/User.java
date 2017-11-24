@@ -1,4 +1,4 @@
-package zizixin.JavaPractice.chatTurbo;
+package chatTurbo;
 
 import java.net.Socket;
 

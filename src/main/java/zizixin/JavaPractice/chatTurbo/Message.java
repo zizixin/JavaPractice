@@ -1,4 +1,4 @@
-package zizixin.JavaPractice.chatTurbo;
+package chatTurbo;
 
 public class Message {
 
